@@ -15,7 +15,6 @@
     <mask>*.mxml</mask>
     <mask>*Request*.java</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.*,!*Test.java</mask>
     <mask>*Rules.java</mask>
     <mask>*controller*.java,!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
@@ -30,6 +29,7 @@
     <mask>application.yml</mask>
     <mask>*.json</mask>
     <mask>*.*</mask>
+    <mask>*.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
