@@ -24,12 +24,12 @@
     <mask>*.*,!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Controller.java</mask>
     <mask>*.json,!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
-    <mask>pom.xml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
     <mask>application.yml</mask>
     <mask>*.json</mask>
     <mask>*.*</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
