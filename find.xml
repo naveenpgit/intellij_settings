@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All java except tests and test folder" />
-    <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json" />
+    <option name="FILE_MASK" value="application.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -28,8 +28,8 @@
     <mask>*.json</mask>
     <mask>*.*</mask>
     <mask>pom.xml</mask>
-    <mask>application.yml</mask>
     <mask>*.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
+    <mask>application.yml</mask>
   </component>
 </application>
