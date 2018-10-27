@@ -30,6 +30,7 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
+    <mask>*rule*.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
