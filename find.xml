@@ -31,8 +31,8 @@
     <mask>*.java</mask>
     <mask>*.*,!.git*</mask>
     <mask>*.*</mask>
-    <mask>pom.xml</mask>
     <mask>*.json</mask>
+    <mask>pom.xml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
