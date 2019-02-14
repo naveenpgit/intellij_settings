@@ -34,6 +34,7 @@
     <mask>*LPA*</mask>
     <mask>*.*</mask>
     <mask>pom.xml</mask>
+    <mask>app*.yml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
