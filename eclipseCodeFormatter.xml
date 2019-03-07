@@ -2,7 +2,7 @@
   <component name="EclipseCodeFormatterSettings">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="15915" />
+        <option name="actionsExecuted" value="16305" />
         <option name="firstUsage" value="1539852387741" />
         <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
         <option name="lastNaggingDate" value="1549458570307" />
@@ -11,13 +11,18 @@
     <option name="settingsList">
       <list>
         <Settings>
-          <option name="formatOtherFileTypesWithIntelliJ" value="false" />
           <option name="formatter" value="ECLIPSE" />
-          <option name="id" value="1533101855978" />
-          <option name="name" value="finbrokerproduct" />
+          <option name="id" value="1551938226137" />
+          <option name="name" value="finXbroker" />
           <option name="pathToConfigFileJava" value="D:/Naveen/finexp-code-conventions.xml" />
-          <option name="pathToEclipse" value="$USER_HOME$/Downloads" />
           <option name="selectedJavaProfile" value="Spring IDE" />
+        </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1551938458872" />
+          <option name="name" value="fiX - Modified" />
+          <option name="pathToConfigFileJava" value="D:/Naveen/finexp-code-conventions - Modified.xml" />
+          <option name="selectedJavaProfile" value="Spring IDE - Modified" />
         </Settings>
       </list>
     </option>
