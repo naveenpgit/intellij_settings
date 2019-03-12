@@ -3,4 +3,7 @@
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
+  <component name="UISettings">
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
+  </component>
 </application>
