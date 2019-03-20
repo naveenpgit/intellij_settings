@@ -30,11 +30,11 @@
     <mask>*.json</mask>
     <mask>*.*</mask>
     <mask>pom.xml</mask>
-    <mask>app*.yml</mask>
     <mask>*.java</mask>
     <mask>*LPA*</mask>
     <mask>*fnmmap*</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
+    <mask>app*.yml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*mock*.json</mask>
   </component>
 </application>
