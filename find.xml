@@ -1,15 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*mock*.json" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -29,7 +25,6 @@
     <mask>application.yml</mask>
     <mask>*.class</mask>
     <mask>*.*,!.git*</mask>
-    <mask>pom.xml</mask>
     <mask>*LPA*</mask>
     <mask>*fnmmap*</mask>
     <mask>*.json</mask>
@@ -38,7 +33,8 @@
     <mask>*.*</mask>
     <mask>*rule*.json</mask>
     <mask>*controll*.java</mask>
-    <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*mock*.json</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
+    <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*mock*.json</mask>
   </component>
 </application>
