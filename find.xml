@@ -10,7 +10,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Request*.java</mask>
-    <mask>*.yml</mask>
     <mask>*.*,!*Test.java</mask>
     <mask>*Rules.java</mask>
     <mask>*controller*.java,!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
@@ -35,6 +34,7 @@
     <mask>*controll*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*mock*.json</mask>
   </component>
 </application>
