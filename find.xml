@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="junit forfnm exporrt apigateway changes" />
+    <option name="defaultScopeName" value="junit forfnm exporrt apigateway changes" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="junit forfnm exporrt apigateway changes" />
     <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*mock*.json,!*.csv" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
