@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="junit forfnm exporrt apigateway changes" />
-    <option name="defaultScopeName" value="junit forfnm exporrt apigateway changes" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Need to check in to Epass migration branch" />
+    <option name="defaultScopeName" value="Need to check in to Epass migration branch" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="junit forfnm exporrt apigateway changes" />
+    <option name="SEARCH_SCOPE" value="Need to check in to Epass migration branch" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Request*.java</mask>
