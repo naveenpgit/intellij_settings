@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ExampleExecutorSerivice" type="JAVA" />
       <mapping pattern="Error_Liabilities" type="JSON" />
       <mapping ext="xml&quot;" type="XML" />
     </extensionMap>
