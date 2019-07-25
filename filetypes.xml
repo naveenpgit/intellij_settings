@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ExampleExecutorSerivice" type="JAVA" />
       <mapping pattern="Error_Liabilities" type="JSON" />
+      <mapping pattern="PatchRequest" type="JSON" />
       <mapping ext="xml&quot;" type="XML" />
     </extensionMap>
   </component>
