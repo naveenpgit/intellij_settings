@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Add traceId for job(s) so entire flow/log can be tracked in log aggregator services like kibana" />
+    <option name="defaultScopeName" value="Add traceId for job(s) so entire flow/log can be tracked in log aggregator services like kibana" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Add traceId for job(s) so entire flow/log can be tracked in log aggregator services like kibana" />
     <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*mock*.json,!*.csv" />
     <mask>*Request*.java</mask>
     <mask>*.*,!*Test.java</mask>
