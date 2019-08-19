@@ -4,6 +4,7 @@
       <mapping pattern="ExampleExecutorSerivice" type="JAVA" />
       <mapping pattern="Error_Liabilities" type="JSON" />
       <mapping pattern="PatchRequest" type="JSON" />
+      <mapping pattern="observation_datakey_encrypt.json" type="PLAIN_TEXT" />
       <mapping ext="xml&quot;" type="XML" />
     </extensionMap>
   </component>
