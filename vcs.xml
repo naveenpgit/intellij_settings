@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab.tavant.com" />
           <option name="userName" value="naveenkumar.goudar" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="naveenpgit" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\naveenkumar.goudar\Downloads" />
