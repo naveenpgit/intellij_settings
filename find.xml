@@ -32,9 +32,9 @@
     <mask>*aus*.java</mask>
     <mask>*.class</mask>
     <mask>pom.xml</mask>
-    <mask>*.yml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*mock*.json,!*.csv</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*mock*.json</mask>
   </component>
 </application>
