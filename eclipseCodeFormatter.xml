@@ -11,6 +11,13 @@
           <option name="pathToEclipse" value="$USER_HOME$/Downloads" />
           <option name="selectedJavaProfile" value="Spring IDE" />
         </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1551938458872" />
+          <option name="name" value="fiX - Modified" />
+          <option name="pathToConfigFileJava" value="D:/Naveen/finexp-code-conventions - Modified.xml" />
+          <option name="selectedJavaProfile" value="Spring IDE - Modified" />
+        </Settings>
       </list>
     </option>
   </component>
