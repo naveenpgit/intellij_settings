@@ -10,6 +10,10 @@
           <option name="url" value="https://gitlab.tavant.com/finbrokerproduct/finx_config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.tavant.com/finbrokerproduct/finx_uiapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Naveen/FinxBroker/new_urla" />
