@@ -147,11 +147,6 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
-    <filter>
-      <option name="PATTERN" value="com.tavant.finexp.mismo.controller.AbstractUrlaController" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
