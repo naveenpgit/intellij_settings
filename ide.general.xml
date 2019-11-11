@@ -10,5 +10,6 @@
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
 </application>
