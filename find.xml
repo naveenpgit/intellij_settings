@@ -27,9 +27,9 @@
     <mask>*.json,!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
     <mask>*.class</mask>
-    <mask>application.yml</mask>
     <mask>pom.xml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
+    <mask>application.yml</mask>
     <mask>*.*</mask>
   </component>
 </application>
