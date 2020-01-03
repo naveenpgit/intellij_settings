@@ -27,11 +27,11 @@
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
     <mask>*.class</mask>
     <mask>application.yml</mask>
-    <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.*</mask>
+    <mask>*.ts</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
