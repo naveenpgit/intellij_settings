@@ -6,6 +6,7 @@
       <mapping pattern="Error_Liabilities" type="JSON" />
       <removed_mapping ext="json" type="JSON" />
       <mapping pattern="observation_datakey_encrypt.json" type="PLAIN_TEXT" />
+      <mapping pattern="loanFolderPipelineConfiguration" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="json" type="PLAIN_TEXT" />
       <mapping ext="xml&quot;" type="XML" />
