@@ -4,6 +4,7 @@
       <mapping pattern="ExampleExecutorSerivice" type="JAVA" />
       <mapping pattern="PatchRequest" type="JSON" />
       <mapping pattern="Error_Liabilities" type="JSON" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="observation_datakey_encrypt.json" type="PLAIN_TEXT" />
       <mapping pattern="Config-Migration-V2-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="loanFolderPipelineConfiguration" type="PLAIN_TEXT" />
