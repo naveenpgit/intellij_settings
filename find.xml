@@ -25,13 +25,13 @@
     <mask>*.json,!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
     <mask>*.class</mask>
-    <mask>pom.xml</mask>
     <mask>application.yml</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.*</mask>
+    <mask>pom.xml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
