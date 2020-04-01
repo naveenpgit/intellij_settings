@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json" />
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
@@ -27,13 +27,13 @@
     <mask>*.json,!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java</mask>
     <mask>*.class</mask>
-    <mask>application.yml</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
-    <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
     <mask>*.*</mask>
+    <mask>application.yml</mask>
+    <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
