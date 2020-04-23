@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Revert &quot;Revert &quot;Merge branch 'fix_local_config_migration' into 'release-3.1-NEWURLA'&quot;&quot;" />
     <option name="defaultScopeName" value="Revert &quot;Revert &quot;Merge branch 'fix_local_config_migration' into 'release-3.1-NEWURLA'&quot;&quot;" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Revert &quot;Revert &quot;Merge branch 'fix_local_config_migration' into 'release-3.1-NEWURLA'&quot;&quot;" />
     <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json" />
