@@ -29,11 +29,11 @@
     <mask>*.class</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
-    <mask>application.yml</mask>
     <mask>*.*</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>pom.xml</mask>
+    <mask>application.yml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
