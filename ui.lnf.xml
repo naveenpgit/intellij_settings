@@ -3,6 +3,8 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="MAX_LOOKUP_WIDTH2" value="664" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
   </component>
 </application>
