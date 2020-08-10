@@ -32,9 +32,9 @@
     <mask>*.yml</mask>
     <mask>*mapping.json</mask>
     <mask>*.java</mask>
-    <mask>*.*</mask>
     <mask>*.json</mask>
     <mask>pom.xml</mask>
+    <mask>*.*</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
