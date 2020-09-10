@@ -22,9 +22,6 @@
       </value>
     </option>
   </JetCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="200" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
