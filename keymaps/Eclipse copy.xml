@@ -23,9 +23,5 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
-  <action id="Macro.Format-On-Save">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="SaveAll" />
   <action id="ShelveChanges.UnshelveWithDialog" />
 </keymap>
