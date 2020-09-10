@@ -1,7 +1,7 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="Foramat-on-save">
-      <action id="ReformatCode" />
+    <macro name="Format-On-Save">
+      <action id="ShowReformatFileDialog" />
       <action id="SaveAll" />
     </macro>
   </component>
