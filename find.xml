@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Temp - Do not checkin" />
-    <option name="defaultScopeName" value="Temp - Do not checkin" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Temp - Do not checkin" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json" />
     <mask>*.properties</mask>
     <mask>*.xml</mask>
