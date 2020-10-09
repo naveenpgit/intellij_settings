@@ -2,21 +2,22 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ExampleExecutorSerivice" type="JAVA" />
-      <mapping pattern="PatchRequest" type="JSON" />
       <mapping pattern="Error_Liabilities" type="JSON" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="PatchRequest" type="JSON" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="observation_datakey_encrypt.json" type="PLAIN_TEXT" />
+      <mapping pattern="Config-Migration-V2-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Dev-to-QA-Deploy-Only_jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern="Config-Migration-V2-Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="TEST-Usps-ob-county-mapping.json" type="PLAIN_TEXT" />
       <mapping pattern="finexretailqa_qa-phase_Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="loanFolderPipelineConfiguration" type="PLAIN_TEXT" />
-      <mapping pattern="TEST-Usps-ob-county-mapping.json" type="PLAIN_TEXT" />
       <mapping ext="json_backup" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="Shell Script" />
       <mapping ext="xml&quot;" type="XML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
