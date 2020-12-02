@@ -11,8 +11,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*.gra*" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -42,5 +41,6 @@
     <mask>*.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql*</mask>
     <mask>*.*</mask>
+    <mask>*.gra*</mask>
   </component>
 </application>
