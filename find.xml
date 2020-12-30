@@ -9,7 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql*" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Request*.java</mask>
@@ -38,7 +38,7 @@
     <mask>*.java</mask>
     <mask>application.yml</mask>
     <mask>pro</mask>
-    <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql*</mask>
     <mask>*.*</mask>
+    <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql*</mask>
   </component>
 </application>
