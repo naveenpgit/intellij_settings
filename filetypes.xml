@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="ExampleExecutorSerivice" type="JAVA" />
       <mapping pattern="Error_Liabilities" type="JSON" />
       <mapping pattern="PatchRequest" type="JSON" />
@@ -13,6 +14,8 @@
       <mapping pattern="TEST-Usps-ob-county-mapping.json" type="PLAIN_TEXT" />
       <mapping pattern="loanFolderPipelineConfiguration" type="PLAIN_TEXT" />
       <mapping ext="json_backup" type="PLAIN_TEXT" />
+      <mapping ext="as" type="PLAIN_TEXT" />
+      <mapping ext="js-old" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="Shell Script" />
       <mapping ext="xml&quot;" type="XML" />
