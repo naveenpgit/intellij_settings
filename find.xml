@@ -36,11 +36,11 @@
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql*,!*.git*</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>application.yml</mask>
     <mask>pro</mask>
     <mask>*.gra*</mask>
     <mask>*.*</mask>
+    <mask>*.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql*</mask>
   </component>
 </application>
