@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql" />
+    <option name="FILE_MASK" value="!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json" />
     <mask>*.mxml</mask>
     <mask>*Request*.java</mask>
     <mask>*.*,!*Test.java</mask>
@@ -36,7 +36,7 @@
     <mask>*.gra*</mask>
     <mask>*.js</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql*</mask>
-    <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql</mask>
+    <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
