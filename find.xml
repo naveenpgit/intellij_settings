@@ -26,7 +26,6 @@
     <mask>*mapping.json</mask>
     <mask>*.json</mask>
     <mask>pom.xml</mask>
-    <mask>*.yml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql*,!*.git*</mask>
     <mask>*.sql</mask>
     <mask>application.yml</mask>
@@ -37,6 +36,7 @@
     <mask>*.js</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql*</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json,!*.sql</mask>
+    <mask>*.yml</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
