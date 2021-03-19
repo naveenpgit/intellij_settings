@@ -5,6 +5,8 @@
       <mapping pattern="ExampleExecutorSerivice" type="JAVA" />
       <mapping pattern="Error_Liabilities" type="JSON" />
       <mapping pattern="PatchRequest" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Config-Migration-V2-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Dev-to-QA-Deploy-Only_jenkinsfile" type="PLAIN_TEXT" />
@@ -19,9 +21,9 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="Shell Script" />
       <mapping ext="xml&quot;" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
