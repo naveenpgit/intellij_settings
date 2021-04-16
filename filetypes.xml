@@ -5,6 +5,7 @@
       <mapping pattern="ExampleExecutorSerivice" type="JAVA" />
       <mapping pattern="Error_Liabilities" type="JSON" />
       <mapping pattern="PatchRequest" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Config-Migration-V2-Jenkinsfile" type="PLAIN_TEXT" />
