@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="naveenpgit" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.tavant.com" />
+          <option name="userName" value="naveenkumar.goudar" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
