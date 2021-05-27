@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
