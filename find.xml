@@ -31,12 +31,12 @@
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json`</mask>
     <mask>*.sql</mask>
     <mask>build.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>log4j2.xml</mask>
     <mask>*.*</mask>
     <mask>*.yml</mask>
     <mask>app*.yml</mask>
+    <mask>*.java</mask>
     <mask>!*Test.java,!*IT.java,!*.log,!*Tests.java,!*Test*.json</mask>
   </component>
 </application>
