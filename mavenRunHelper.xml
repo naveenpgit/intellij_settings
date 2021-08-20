@@ -20,25 +20,19 @@
               <option name="commandLine" value="package" />
             </Goal>
             <Goal>
+              <option name="commandLine" value="verify" />
+            </Goal>
+            <Goal>
               <option name="commandLine" value="install" />
             </Goal>
             <Goal>
               <option name="commandLine" value="deploy" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean deploy -DskipTests" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="verify" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="site" />
             </Goal>
             <Goal>
               <option name="commandLine" value="clean install" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="install -DskipTests" />
             </Goal>
             <Goal>
               <option name="commandLine" value="clean install -DskipTests" />
