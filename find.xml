@@ -3,7 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.Test.java" />
+    <option name="FILE_MASK" value="!*Test.java,!*Test*.java" />
     <mask>!*.Test.java</mask>
+    <mask>!*Test.java,!*Test*.java</mask>
   </component>
 </application>
