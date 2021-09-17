@@ -3,11 +3,11 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="!*Test.java,!*Test*.java" />
     <mask>!*.Test.java</mask>
     <mask>!*Test.java,!*Test*.java,!*.sql</mask>
     <mask>*.java,*.yml</mask>
-    <mask>!*Test.java,!*Test*.java</mask>
     <mask>*.yml</mask>
+    <mask>!*Test.java,!*Test*.java</mask>
   </component>
 </application>
