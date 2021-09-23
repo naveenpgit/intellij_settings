@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="CD integration for invite/inviteAsProspect moved to feignclient" />
-    <option name="defaultScopeName" value="CD integration for invite/inviteAsProspect moved to feignclient" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="CD integration for invite/inviteAsProspect moved to feignclient" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="!*Test.java,!*Test*.java" />
     <mask>!*.Test.java</mask>
     <mask>!*Test.java,!*Test*.java,!*.sql</mask>
