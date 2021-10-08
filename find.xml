@@ -5,11 +5,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="!*Test.java,!*Test*.java" />
     <mask>!*.Test.java</mask>
     <mask>!*Test.java,!*Test*.java,!*.sql</mask>
     <mask>*.java,*.yml</mask>
-    <mask>!*Test.java,!*Test*.java</mask>
     <mask>*.yml</mask>
+    <mask>!*Test.java,!*Test*.java</mask>
   </component>
 </application>
