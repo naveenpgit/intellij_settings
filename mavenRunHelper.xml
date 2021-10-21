@@ -37,6 +37,9 @@
             <Goal>
               <option name="commandLine" value="clean install -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="generate-sources" />
+            </Goal>
           </list>
         </option>
       </Goals>
