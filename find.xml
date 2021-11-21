@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="!*Test.java,!*Test*.java*.ts" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>!*.Test.java</mask>
     <mask>!*Test.java,!*Test*.java,!*.sql</mask>
     <mask>*.yml</mask>
@@ -12,5 +14,6 @@
     <mask>*</mask>
     <mask>!*Test.java,!*Test*.java</mask>
     <mask>!*Test.java,!*Test*.java*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
