@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="naveenpgit" id="7592b7be-4706-4cbd-a4d4-5c35e2d22cdc">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
