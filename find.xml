@@ -7,15 +7,15 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.java,!*Test*.java,!*.sql" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>!*.Test.java</mask>
     <mask>*.java,*.yml</mask>
     <mask>*Base.java</mask>
     <mask>*</mask>
     <mask>!*Test.java,!*Test*.java</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
     <mask>!*Test.java,!*Test*.java*.ts</mask>
     <mask>!*Test.java,!*Test*.java,!*.sql</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
