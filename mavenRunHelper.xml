@@ -5,6 +5,9 @@
         <option name="goals">
           <list>
             <Goal>
+              <option name="commandLine" value="clean install deploy -DskipTests" />
+            </Goal>
+            <Goal>
               <option name="commandLine" value="clean" />
             </Goal>
             <Goal>
@@ -39,9 +42,6 @@
             </Goal>
             <Goal>
               <option name="commandLine" value="generate-sources" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="clean install deploy -DskipTests" />
             </Goal>
           </list>
         </option>
