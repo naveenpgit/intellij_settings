@@ -7,12 +7,12 @@
     <mask>!*.Test.java</mask>
     <mask>*.java,*.yml</mask>
     <mask>*Base.java</mask>
-    <mask>*</mask>
     <mask>!*Test.java,!*Test*.java</mask>
     <mask>*.json</mask>
     <mask>!*Test.java,!*Test*.java*.ts</mask>
     <mask>*.yml</mask>
     <mask>!*Test.java,!*Test*.java,!*.sql</mask>
+    <mask>*</mask>
     <mask>build.gradle</mask>
   </component>
 </application>
