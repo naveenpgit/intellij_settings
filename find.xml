@@ -7,7 +7,6 @@
     <mask>!*.Test.java</mask>
     <mask>*.java,*.yml</mask>
     <mask>*Base.java</mask>
-    <mask>*.json</mask>
     <mask>!*Test.java,!*Test*.java*.ts</mask>
     <mask>*.yml</mask>
     <mask>*</mask>
@@ -15,6 +14,7 @@
     <mask>!*Test.java,!*Test*.java</mask>
     <mask>!*Test.java,!*Test*.java,!*.sql,!*.log</mask>
     <mask>build.gradle</mask>
+    <mask>*.json</mask>
     <mask>!*Test.java,!*Test*.java,!*.log</mask>
   </component>
 </application>
