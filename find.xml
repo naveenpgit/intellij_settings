@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="build.gradle" />
+    <option name="FILE_MASK" value="!*Test.java,!*Test*.java,!*.log" />
     <mask>!*.Test.java</mask>
     <mask>*.java,*.yml</mask>
     <mask>*Base.java</mask>
@@ -14,7 +14,7 @@
     <mask>!*Test.java,!*Test*.java</mask>
     <mask>!*Test.java,!*Test*.java,!*.sql,!*.log</mask>
     <mask>*.json</mask>
-    <mask>!*Test.java,!*Test*.java,!*.log</mask>
     <mask>build.gradle</mask>
+    <mask>!*Test.java,!*Test*.java,!*.log</mask>
   </component>
 </application>
