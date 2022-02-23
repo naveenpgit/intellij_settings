@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.java,!*Test*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>!*.Test.java</mask>
     <mask>*.java,*.yml</mask>
     <mask>*Base.java</mask>
@@ -18,5 +18,6 @@
     <mask>build.gradle</mask>
     <mask>!*Test.java,!*Test*.java,!*.log</mask>
     <mask>!*Test.java,!*Test*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
