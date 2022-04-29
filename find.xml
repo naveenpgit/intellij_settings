@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.java,!*Test*.java" />
+    <option name="FILE_MASK" value="!*Test.java,!*Test*.java,!*.log" />
     <mask>!*.Test.java</mask>
     <mask>*.java,*.yml</mask>
     <mask>*Base.java</mask>
@@ -13,9 +15,9 @@
     <mask>!*Test.java,!*Test*.java,!*.sql,!*.log</mask>
     <mask>*.json</mask>
     <mask>build.gradle</mask>
-    <mask>!*Test.java,!*Test*.java,!*.log</mask>
     <mask>pom.xml</mask>
     <mask>*</mask>
     <mask>!*Test.java,!*Test*.java</mask>
+    <mask>!*Test.java,!*Test*.java,!*.log</mask>
   </component>
 </application>
