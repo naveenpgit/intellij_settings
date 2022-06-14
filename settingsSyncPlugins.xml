@@ -2,6 +2,11 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="Docker">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="org.jetbrains.kotlin">
           <value>
             <PluginData />
