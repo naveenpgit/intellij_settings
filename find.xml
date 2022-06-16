@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.java,!*Test*.java,!*.log,*.kt" />
+    <option name="FILE_MASK" value="!*Test.java,!*Test*.java,!*.log" />
     <mask>!*.Test.java</mask>
     <mask>*.java,*.yml</mask>
     <mask>!*Test.java,!*Test*.java*.ts</mask>
@@ -17,7 +17,7 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*Base.java</mask>
-    <mask>!*Test.java,!*Test*.java,!*.log</mask>
     <mask>!*Test.java,!*Test*.java,!*.log,*.kt</mask>
+    <mask>!*Test.java,!*Test*.java,!*.log</mask>
   </component>
 </application>
