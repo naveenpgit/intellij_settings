@@ -1,1 +1,9 @@
-<keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)" />
+<keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="Markdown.Styling.CreateLink" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+</keymap>
