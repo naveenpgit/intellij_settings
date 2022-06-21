@@ -1,23 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.java,!*Test*.java,!*.log" />
-    <mask>!*.Test.java</mask>
-    <mask>*.java,*.yml</mask>
-    <mask>!*Test.java,!*Test*.java*.ts</mask>
-    <mask>*.yml</mask>
-    <mask>!*Test.java,!*Test*.java,!*.sql</mask>
-    <mask>!*Test.java,!*Test*.java,!*.sql,!*.log</mask>
-    <mask>*.json</mask>
-    <mask>build.gradle</mask>
-    <mask>*</mask>
-    <mask>!*Test.java,!*Test*.java</mask>
-    <mask>pom.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*Base.java</mask>
-    <mask>!*Test.java,!*Test*.java,!*.log,*.kt</mask>
-    <mask>!*Test.java,!*Test*.java,!*.log</mask>
   </component>
 </application>
