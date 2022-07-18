@@ -3,6 +3,9 @@
     <account name="naveenpgit" id="7592b7be-4706-4cbd-a4d4-5c35e2d22cdc">
       <server host="github.com" />
     </account>
+    <account name="ngoudar" id="99707a3c-3a00-42f6-b01e-96bd4b60558d">
+      <server useHttp="false" host="github.eng.tenable.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="CLONE_GIT_USING_SSH" value="true" />
