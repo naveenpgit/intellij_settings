@@ -3,7 +3,7 @@
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
     <option name="SEARCH_SCOPE" value="Changes" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,7 +12,7 @@
     <mask>*.java</mask>
     <mask>!*Test*</mask>
     <mask>*.*</mask>
-    <mask>*.kt</mask>
     <mask>*.ts</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
