@@ -1,13 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Changes" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.*," />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -17,7 +13,8 @@
     <mask>!*Test*</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
-    <mask>*.*</mask>
     <mask>*.kt</mask>
+    <mask>*.*</mask>
+    <mask>*.*,</mask>
   </component>
 </application>
