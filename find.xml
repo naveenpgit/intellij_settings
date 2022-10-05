@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="i18n for export report - other languages" />
+    <option name="defaultScopeName" value="i18n for export report - other languages" />
     <option name="fromCursor" value="false" />
     <option name="localCaseSensitive" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="SEARCH_SCOPE" value="i18n for export report - other languages" />
+    <option name="FILE_MASK" value="*.*,!*.log" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -26,7 +26,7 @@
     <mask>*.*</mask>
     <mask>*.avsc</mask>
     <mask>*.avdl</mask>
-    <mask>*.*,!*.log</mask>
     <mask>*.kt</mask>
+    <mask>*.*,!*.log</mask>
   </component>
 </application>
