@@ -9,7 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*,!*.log" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -23,10 +23,10 @@
     <mask>*.conf</mask>
     <mask>*.kt,*.js</mask>
     <mask>*.kt,!*.log</mask>
-    <mask>*.*</mask>
-    <mask>*.avsc</mask>
     <mask>*.avdl</mask>
     <mask>*.kt</mask>
     <mask>*.*,!*.log</mask>
+    <mask>*.avsc</mask>
+    <mask>*.*</mask>
   </component>
 </application>
