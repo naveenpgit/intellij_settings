@@ -9,7 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Changes" />
-    <option name="FILE_MASK" value="*.*,!*.log" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -24,9 +24,9 @@
     <mask>*.kt,*.js</mask>
     <mask>*.kt,!*.log</mask>
     <mask>*.avdl</mask>
-    <mask>*.kt</mask>
     <mask>*.avsc</mask>
     <mask>*.*</mask>
     <mask>*.*,!*.log</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
