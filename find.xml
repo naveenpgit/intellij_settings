@@ -16,7 +16,6 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.*,</mask>
-    <mask>*.conf</mask>
     <mask>*.kt,*.js</mask>
     <mask>*.kt,!*.log</mask>
     <mask>*.avdl</mask>
@@ -25,6 +24,7 @@
     <mask>*.kt</mask>
     <mask>!*.log</mask>
     <mask>service.yaml</mask>
+    <mask>*.conf</mask>
     <mask>*.*,!*.log</mask>
   </component>
 </application>
