@@ -7,7 +7,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*,!*.log,CODEOWNERS" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -23,11 +23,11 @@
     <mask>*.avdl</mask>
     <mask>*.avsc</mask>
     <mask>*.*</mask>
-    <mask>*.kt</mask>
     <mask>!*.log</mask>
     <mask>service.yaml</mask>
     <mask>*.conf</mask>
     <mask>*.*,!*.log</mask>
     <mask>*.*,!*.log,CODEOWNERS</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
